@@ -1,2 +1,2 @@
 # test
-r&amp;d perpose
+R&amp;D purpose only.
